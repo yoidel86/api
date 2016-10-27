@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+
+#para la api
+gem 'google-cloud-datastore'

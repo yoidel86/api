@@ -1,0 +1,23 @@
+{
+
+  "type": "service_account",
+
+  "project_id": "financial-10",
+
+  "private_key_id": "290f663d0aa13cfa2721ffb78706f9cedb2b7bca",
+
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3gfmXGtlpOqij\nAQ8YihyV9DBzqJ5mzlvQDlNdHHevifKqyRy0ktBn+IGW/x+C4nj4nNsoSIFP7bnt\nZVRnY9BLraPbG5snYU18fHh9u62dg6eB93V+QPfciEDsYhqFFIslKuMENFcaJNeO\ncXdidHnPGjm3xw4+sIE8X17xMjZ7xuDr8e9ywZMPY8AyYDCbtqWbnn0azzKkFRLK\nVGbv7shFROUNn/Yh3XHTRt5MFkpDOj/RQRNWGYSS6mjuQ8kcZfst7SUysHHsO6oi\nFJqhaeewB/pO3CnvjxGXvyOgzK6SsZF84/fKRIGkQQ4sj2+9Chcxp3gtms/4gs+u\nCCIGdMKhAgMBAAECggEBAKToKnE98Y585jrFotk8k/+1lyz4pJBidWN83DFaebvH\nzcjoPeGP5bTpPxuAXMLz3h4cZ13F+l7nlSPe4YCf0/mOKyeloUI8ULPD70ueMqDQ\nROGojW9N1u/Zie5jIs3g7kISTjvjBTs7THJ3SP+zCBuyx5d9TDHNz/V/BwTdSNTl\nFnEuqWNGKy9WIg+fJa9oDnT9JWLyPF/qiu9bnGohDjiMTyndXpQawW4CNcBmpGP3\nyA2A4Jc5iJkPzBGKyjkCdnhoU6YCT2bWLSlGq9sYxwiNKb7lfgUqGA72ndf+/StG\nwGd12bpCeUTXbDxjHAgORDsvDudfr9F4Xv9xjZc29KECgYEA8DnUYLxotu38BdyK\naowhylTnSAS2cj5NrjCcnk6J2YFFfZU+mdr6j2oM98/3HA/GjmjKFhwtOAI7zHp2\nq+cPLY4NWflqoRJWsOf7cPrFrXh+TNEOpIrO9UOKPjabKzYGbOEXA/woBFxgIBe0\n9aZNfqbJD3JcRFi9YxFpoPvOxd0CgYEAw464FV4VQ+hwaBzIUasyoNnN3HjiL1O6\nHTn/yPQHcvQLeN2HIdUL8j0d0jM3NvzP3vlordp3iUvELM2ypt9FBLZD8ZZJGsSJ\nP16B/CrIAD4KLSFgPRy7doUxKcCfFP7q0PMFsLLofr6IzGdBCsDydcd5kCnkyaOc\n6P3hbnXG7ZUCgYBKltovszCcZCaVt1WvIZW4WkZ54SS5MkkyZdurd91rkK0AAmAu\nq4STFS2zoHos12UigL0Gwnbz5hWlNv00AQmAbpQMtNn761LJmS5EdUj9xOUKevsd\n8g+yreb1zES/1QWHtxhLX3cZa4lZTaMdhyaWxbi2OB8YBanAYf63QpiAbQKBgQDA\nzOO2xVRH6FFyg/YHdrbqmPH6TQAK0wxqJjWFhPoXHn51AktpUqd9gz30cGQehW/Y\nEKNgzEQQC6/00DQzi2p7c8tW0uluR5hc7qtO10rp2kCkMAS3G63C8xv+Yxc0VwNh\nUEgq5qiL1QQAKkiY9pPVBP5X4MXc+r8Hgs6P3fRrZQKBgQDCBy1FvhPZhvgA11fA\n1IbjlZfmItEX1HfkkW/xoTAcAxb96Wc45hDYhOMZ6deTHHm/DxStSaC/QCXwWWam\nMi9Aye/gLXjJhQpUljnYpy4Jmk5GFhvYo61QVrOOk0vZgXzwiggw0SmZSDHh87eI\nrRUrvBU2NhFNUS1QyMG8ry9tlQ==\n-----END PRIVATE KEY-----\n",
+
+  "client_email": "llavemaestra@financial-10.iam.gserviceaccount.com",
+
+  "client_id": "113768379973011412492",
+
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/llavemaestra%40financial-10.iam.gserviceaccount.com"
+
+}
